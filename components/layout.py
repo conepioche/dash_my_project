@@ -1,5 +1,5 @@
 from dash import Dash, html, dcc
-from . import upload, data_tables, cartographie, dropdown_vitesse, speed_choice
+from . import upload, data_tables, cartographie
 
 
 def create_layout(app : Dash) -> html.Div:
