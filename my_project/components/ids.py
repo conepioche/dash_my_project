@@ -1,8 +1,0 @@
-UPLOADER = "uploader"
-TABLE = "table"
-FILENAME = "filename"
-MAP = "map"
-SHOW_MAP = "show-map"
-BUTTON = "button"
-DIV_DROPDOWN_VITESSE = "div-dropdown-vitesse"
-DROPDOWN_CHOICE = "dropdown-speed-choice"
